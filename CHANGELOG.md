@@ -3,6 +3,37 @@
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+v1.25.6
+------------------------------
+*Oct 8, 2019*
+
+### Changed
+- Update footer URL for the "Brands" section in Australia(Menulog)
+
+v1.25.5
+------------------------------
+*August 23, 2019*
+
+### Fixed
+- Fix broken app download URLs for Denmark
+
+### Removed
+- Microsoft app download link for Denmark
+
+v1.25.4
+------------------------------
+*July 29, 2019*
+
+### Changed
+- Update footer URL for the "About Us" section in Australia(Menulog)
+
+v1.25.3
+------------------------------
+*July 12, 2019*
+
+### Changed
+- Update footer URL for the "Locations" and "Cuisines" sections in Australia(Menulog)
+
 v1.25.2
 ------------------------------
 *July 04, 2019*

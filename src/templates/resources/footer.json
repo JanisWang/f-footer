@@ -134,22 +134,16 @@
         "downloadOurApps": "Download vores app",
         "appStoreIcons": [
             {
-                "url": "https://170720.measurementapi.com/serve?action=click&publisher_id=170720&site_id=109400&my_campaign=website-app-page",
+                "url": "https://app.adjust.com/lgmmz6?utm_medium=internal&campaign=homepage",
                 "key": "ios",
                 "iconSrc": "iosIconSrc",
                 "altText": "Hent i App Store"
             },
             {
-                "url": "https://170720.measurementapi.com/serve?action=click&publisher_id=170720&site_id=108390&my_campaign=website-app-page",
+                "url": "https://app.adjust.com/5sd9oz?utm_medium=internal&campaign=homepage",
                 "key": "android",
                 "iconSrc": "androidIconSrc",
                 "altText": "Hent i Google Play"
-            },
-            {
-                "url": "https://www.microsoft.com/store/apps/9nblggh4vk8q",
-                "key": "microsoft",
-                "iconSrc": "microsoftIconSrc",
-                "altText": "Hent i Windows Store"
             }
         ],
         "followUs": "Følg os",
@@ -842,173 +836,173 @@
         "cuisines": "Cuisines",
         "cuisineLinks": [
             {
-                "url": "/browse/burgers",
+                "url": "/takeaway/nearme/burgers",
                 "text": "Burgers Delivery"
             },
             {
-                "url": "/browse/chinese",
+                "url": "/takeaway/nearme/chinese",
                 "text": "Chinese Delivery"
             },
             {
-                "url": "/browse/indian",
+                "url": "/takeaway/nearme/indian",
                 "text": "Indian Delivery"
             },
             {
-                "url": "/content/browse/italian",
+                "url": "/takeaway/nearme/italian",
                 "text": "Italian Delivery"
             },
             {
-                "url": "/browse/japanese",
+                "url": "/takeaway/nearme/japanese",
                 "text": "Japanese Delivery"
             },
             {
-                "url": "/browse/korean",
+                "url": "/takeaway/nearme/korean",
                 "text": "Korean Delivery"
             },
             {
-                "url": "/browse/pizza",
+                "url": "/takeaway/nearme/pizza",
                 "text": "Pizza Delivery"
             },
             {
-                "url": "/browse/thai",
+                "url": "/takeaway/nearme/thai",
                 "text": "Thai Delivery"
             },
             {
-                "url": "/browse/vietnamese",
+                "url": "/takeaway/nearme/vietnamese",
                 "text": "Vietnamese Delivery"
             },
             {
-                "url": "/content/browse",
-                "text": "View all cuisines"
+                "url": "/takeaway/nearme/",
+                "text": "Browse more cuisines"
             }
         ],
         "towns": "Locations",
         "locationLinks": [
             {
-                "url": "/browse/sydney",
+                "url": "/takeaway/sydney-city-and-inner-south-nsw",
                 "text": "Sydney food delivery"
             },
             {
-                "url": "/browse/melbourne-vic",
+                "url": "/takeaway/melbourne-city-vic",
                 "text": "Melbourne food delivery"
             },
             {
-                "url": "/browse/perth-wa",
+                "url": "/takeaway/perth-city-wa",
                 "text": "Perth food delivery"
             },
             {
-                "url": "/browse/brisbane-qld",
+                "url": "/takeaway/brisbane-inner-city-qld",
                 "text": "Brisbane food delivery"
             },
             {
-                "url": "/browse/canberra-act",
+                "url": "/takeaway/canberra-queanbeyan-act",
                 "text": "Canberra food delivery"
             },
             {
-                "url": "/browse/adelaide-sa",
+                "url": "/takeaway/adelaide-city-sa",
                 "text": "Adelaide food delivery"
             },
             {
-                "url": "/browse/hobart-tas",
+                "url": "/takeaway/hobart-inner-tas",
                 "text": "Hobart food delivery"
             },
             {
-                "url": "/browse/gold-coast",
+                "url": "/takeaway/gold-coast-qld",
                 "text": "Gold Coast food delivery"
             },
             {
-                "url": "/browse/newcastle-hunter-valley",
+                "url": "/takeaway/newcastle-and-lake-macquarie-nsw",
                 "text": "Newcastle food delivery"
             },
             {
-                "url": "/browse",
-                "text": "View all locations"
+                "url": "/takeaway/",
+                "text": "Browse more cities"
             }
         ],
         "brands": "Brands",
         "brandLinks": [
             {
-                "url": "/content/brands/hungry-jacks/",
+                "url": "/takeaway/brands/hungry-jacks/",
                 "text": "Hungry Jack's Delivery"
             },
             {
-                "url": "/content/brands/kfc/",
+                "url": "/takeaway/brands/kfc/",
                 "text": "KFC Delivery"
             },
             {
-                "url": "/content/brands/crust/",
+                "url": "/takeaway/brands/crust/",
                 "text": "Crust Delivery"
             },
             {
-                "url": "/content/brands/hogs-breath/",
+                "url": "/takeaway/brands/hogs-breath/",
                 "text": "Hog's Breath Delivery"
             },
             {
-                "url": "/content/brands/oporto/",
+                "url": "/takeaway/brands/oporto/",
                 "text": "Oporto Delivery"
             },
             {
-                "url": "/content/brands/pizza-hut/",
+                "url": "/takeaway/brands/pizza-hut/",
                 "text": "Pizza Hut Delivery"
             },
             {
-                "url": "/content/brands/red-rooster/",
+                "url": "/takeaway/brands/red-rooster/",
                 "text": "Red Rooster Delivery"
             },
             {
-                "url": "/content/brands/subway/",
+                "url": "/takeaway/brands/subway/",
                 "text": "Subway Delivery"
             },
             {
-                "url": "/content/brands/zambrero/",
+                "url": "/takeaway/brands/zambrero/",
                 "text": "Zambrero Delivery"
             },
             {
-                "url": "/browse/",
-                "text": "View all brands"
+                "url": "/takeaway/brands",
+                "text": "Browse more brands"
             }
         ],
         "aboutUs": "A bit more about us",
         "aboutUsLinks": [
             {
-                "url": "/content/",
-                "text": "About Menulog"
+              "url": "/info/about-us",
+              "text": "About Menulog"
             },
             {
-                "url": "/content/our-price-promise/",
-                "text": "Price promise"
+              "url": "/info/our-price-promise",
+              "text": "Our Price Promise"
             },
             {
-                "url": "/content/partner-with-us/",
-                "text": "Partner with us"
+              "url": "/info/partner-with-us/",
+              "text": "Partner with Us"
             },
             {
-                "url": "/content/corporate-partners/",
-                "text": "Corporate partners"
+              "url": "/info/corporate-partners",
+              "text": "Corporate Partners"
             },
             {
-                "url": "/blog/category/press/",
-                "text": "Media Centre"
+              "url": "/blog/menulog-news",
+              "text": "Media Centre"
             },
             {
-                "url": "/privacy-policy/",
-                "text": "Privacy Policy and Terms of Use"
+              "url": "/info/privacy-policy",
+              "text": "Privacy Policy and Terms of Use"
             },
             {
-                "url": "https://partner.menulog.com.au/",
-                "text": "Partner centre"
+              "url": "https://partner.menulog.com.au/",
+              "text": "Partner Centre"
             },
             {
-                "url": "https://couriers.menulog.com.au/application/",
-                "text": "Become a courier"
+              "url": "https://couriers.menulog.com.au/application",
+              "text": "Become a Courier"
             },
             {
-                "url": "https://couriers.menulog.com.au/",
-                "text": "Courier portal"
+              "url": "https://couriers.menulog.com.au/login",
+              "text": "Courier Portal"
             },
             {
-                "url": "/content/join-menulog",
-                "text": "List your restaurant"
+              "url": "/info/join-menulog",
+              "text": "List Your Restaurant"
             }
         ],
         "downloadOurApps": "Download our apps",
